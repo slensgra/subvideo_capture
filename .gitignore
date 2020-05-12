@@ -1,3 +1,4 @@
 .intermediates/*
 .venv
 outputs
+*.avi
